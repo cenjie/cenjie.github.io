@@ -2,6 +2,7 @@ title: i'm CJ                     # title of the site
 description: quietly brilliant          # description of the site
 url: https://gao.cenjie.com       # domain
 baseurl:                     # root directory
+permalink: /:year/:title/
 
 # Email address
 email: 
