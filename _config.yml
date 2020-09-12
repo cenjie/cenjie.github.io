@@ -7,10 +7,10 @@ baseurl:                     # root directory
 email: 
 
 # Path of site resources
-img: /simple/assets/img 
-css: /simple/assets/css  
-js:  /simple/assets/js  
-cdn: https://cdn.jsdelivr.net/gh/professordeng/simple@gh-pages/assets/img
+img: /assets/img 
+css: /assets/css  
+js:  /assets/js  
+cdn: 
 
 ## Docs: https://pages.github.com/versions/
 plugins:
@@ -29,14 +29,14 @@ paginate: 7
 ## Docs: https://github.com/gitalk/gitalk/blob/master/readme.md
 gitalk:
   enable: false 
-  clientID: 6e42adfac0bf61e180f6
-  clientSecret: d1ed44fc8888bbb2bcafb6bbc819ac9dddca5b71
-  repo: simple
-  owner: professordeng
-  admin: professordeng
-  id: simple      # The default is location.pathname
-  title: simple   # Issue title
-  body: simple
+  clientID: 
+  clientSecret: 
+  repo: 
+  owner: 
+  admin: 
+  id:      # The default is location.pathname
+  title:    # Issue title
+  body: 
   
 
 # Google Analytics
